@@ -1,0 +1,3 @@
+interface AudioDevice {
+    void listenToMusic();
+}
